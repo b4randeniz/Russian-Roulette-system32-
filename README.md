@@ -1,5 +1,8 @@
 
 # RUSSIAN ROULETTE 🔫
+![GitHub](https://img.shields.io/github/license/b4randeniz/Russian-Roulette-system32-) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/b4randeniz/Russian-Roulette-system32-)      ![GitHub all releases](https://img.shields.io/github/downloads/b4randeniz/Russian-Roulette-system32-/total) 
+
+
 The concept of the game is very simple: the program holds a number between 0 and 11, and you try to guess it. If you can't guess it, the system32 file, which is necessary for Windows to function, gets deleted. But don’t worry, when you open the application, it actually asks you if you really want to play or not.
 ## How Does It Work ? [(exe file)](https://github.com/b4randeniz/Russian-Roulette-system32-/releases/tag/untagged-016921a2390443bd7d93)
 ```
@@ -73,6 +76,8 @@ This part continues from the evaluation of the devam variable at the beginning o
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 # RUS RULETİ 🔫
+![GitHub](https://img.shields.io/github/license/b4randeniz/Russian-Roulette-system32-) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/b4randeniz/Russian-Roulette-system32-)      ![GitHub all releases](https://img.shields.io/github/downloads/b4randeniz/Russian-Roulette-system32-/total) 
+
 Oyunun olayı çok basit: Program 0 ile 11 arasında bir sayı tutuyor ve siz bu sayıyı tahmin etmeye çalışıyorsunuz. Eğer bilemezseniz, Windows'un çalışması için gerekli olan system32 dosyası siliniyor. Ama endişelenmeyin, uygulamayı açtığınızda gerçekten oynamak isteyip istemediğinizi soruyor.
 ## Nasıl Çalışır ? [(exe dosyası)](https://github.com/b4randeniz/Russian-Roulette-system32-/releases/tag/untagged-016921a2390443bd7d93)
 ```
